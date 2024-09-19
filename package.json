@@ -1,11 +1,11 @@
 {
   "name": "edujsgamessocket",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "api/socket.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server.js",
-    "dev": "nodemon server.js",
+    "start": "nodemon api/socket.js",
+    "dev": "nodemon api/socket.js",
     "build": "",
     "deploy": "echo",
     "test": "echo \"No tests specified\" && exit 0"
